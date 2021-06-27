@@ -1,0 +1,88 @@
+
+
+form {
+    background-color: #ebebeb;
+    padding: 20px;
+    
+    
+}
+
+.formulario-partes {
+    display: block;
+    margin-bottom: 15px;
+    width: 70%;
+    
+}
+
+.perfil-del-usuario {
+    margin-bottom: 15px;
+}
+
+/* .perfil-del-usuario .perfil-usuario-titulo {
+    display: block;
+    margin-bottom: 10px; 
+} */
+
+.categorias-de-interes .titulo {
+    display: block;
+    margin-bottom: 10px;
+
+}
+
+.categorias-de-interes .categorias {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.foto-de-usuario {
+    margin: 25px 0px;
+}
+
+button {
+    background-color: #1259c3;
+    color: rgb(255, 255, 255);
+    padding: 8px;
+    border-radius: 5px;
+}
+
+.formulario-login {
+    padding: 30px;
+    
+    
+}
+
+.formulario-login label {
+    display: block;
+    margin-bottom: 15px;
+    
+}
+
+.formulario-login input {
+    display: block;
+    margin-bottom: 15px;
+}
+
+.formulario-login button {
+    background-color: #1259c3;
+    color: rgb(255, 255, 255);
+    padding: 8px;
+    border-radius: 5px;
+    transition: background-color 0,5s;
+}
+
+.formulario-login button:hover {
+    background-color: #0022AA;
+}
+
+.formulario-login button a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+/* input:invalid {
+    border: 2px solid red;
+  } */
+  
+/* input:valid {
+    border: 2px solid black;
+  } */
+  
